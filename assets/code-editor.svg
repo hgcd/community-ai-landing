@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 190" fill="none">
+<rect x="26" y="17" width="308" height="156" rx="10" fill="#2c4864" stroke="#7695b3"/>
+<path d="M26 44h308" stroke="#7695b3"/>
+<g fill="#91b2d0"><circle cx="41" cy="31" r="3"/><circle cx="53" cy="31" r="3"/><circle cx="65" cy="31" r="3"/></g>
+<g font-family="monospace" font-size="12"><text x="46" y="69" fill="#efdccb">const <tspan fill="#d8e6f4">communityTools = {</tspan></text><text x="63" y="91" fill="#a9c7e1">sources: <tspan fill="#efdccb">existingSystems,</tspan></text><text x="63" y="113" fill="#a9c7e1">workflow: <tspan fill="#efdccb">yourProcess,</tspan></text><text x="63" y="135" fill="#a9c7e1">builtFor: <tspan fill="#efdccb">yourCommunity</tspan></text><text x="46" y="157" fill="#d8e6f4">};</text></g>
+</svg>
